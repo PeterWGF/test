@@ -2,7 +2,7 @@
 # Dockefile to build Docker Image of NGINX WebServer with my Web Applicaiton
 #
 # by Peter Putra
----------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 
 FROM nginx:latest
 
