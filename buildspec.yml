@@ -18,7 +18,7 @@ phases:
       - echo "Check aws and git version"
       - aws --version
       - git --version
-
+      - docker --version 
   pre_build:
     commands:
       - echo "Login to AWS ECR and get commit id"
