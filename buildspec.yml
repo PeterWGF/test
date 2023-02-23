@@ -8,9 +8,9 @@ version: 0.1
 env:
   variables:
     AWS_DEFAULT_REGION: "us-east-1"
-    AWS_ACCOUNT_ID    : "268027683837"
-    ECR_REPO_NAME     : "devtest"
-    ECR_IMAGE_TAG     : "latest"
+    AWS_ACCOUNT_ID: "268027683837"
+    ECR_REPO_NAME: "devtest"
+    ECR_IMAGE_TAG: "latest"
 
 phases:
   install:
